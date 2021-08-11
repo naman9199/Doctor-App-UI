@@ -17,4 +17,4 @@ install _expo go_ app on your device to test this app from _play store or app st
 2.  ``` cd Doctor-App-UI ```
 3. run ``` npm install ```
 4. run ``` npm run android ``` to run on emulator or ``` expo start ``` to start server and run on physical device
-
+5. Congrats you are good to go 🎉🎉
