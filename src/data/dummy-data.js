@@ -7,7 +7,7 @@ export const categories = [
     },
     {
         id: "b",
-        imageUrl: require("../../assets/tooth2.png"),
+        imageUrl: require("../../assets/tooth.png"),
         title: "Dental",
         color: "#23b4e1",
     },
